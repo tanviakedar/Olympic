@@ -46,5 +46,9 @@ Hosting the Olympics often correlates with better performance by the host countr
 
 Overall, this dashboard serves as a comprehensive tool for exploring Olympic history, offering valuable insights for sports analysts, historians, and enthusiasts alike.
 
+# Result
+![image](https://github.com/user-attachments/assets/851d031e-760d-499e-bd23-450a95f487fa)
+![image](https://github.com/user-attachments/assets/757fa7de-8c3e-4320-8aea-104862e5a6b9)
+
 
    
