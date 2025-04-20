@@ -17,6 +17,7 @@ Are there trends in performance across different Olympic editions?
 1.Data Collection & Preparation:
 The dataset includes information on athletes, countries, sports, events, medals, and Olympic years.
 Data cleaning involved removing blanks,handling missing values, and categorizing sports.
+Creating new measures in excel like count of bronze,count of silver, count of gold , total medals
 
 2.Power BI Development:
 Key visuals include:
